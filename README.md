@@ -1,3 +1,3 @@
 # Trial
 This is a trial repo.
-Author - Deeksha Thakur
+<br>Author - Deeksha Thakur
